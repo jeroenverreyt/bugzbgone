@@ -1,0 +1,8 @@
+C:\Users\Jeroen\Desktop\BUGZBGONE\bugzbgone\bugzbgone\bin\bugzbgone.dll
+C:\Users\Jeroen\Desktop\BUGZBGONE\bugzbgone\bugzbgone\bin\bugzbgone.pdb
+C:\Users\Jeroen\Desktop\BUGZBGONE\bugzbgone\bugzbgone\bin\bugzbgone.xml
+C:\Users\Jeroen\Desktop\BUGZBGONE\bugzbgone\bugzbgone\obj\Debug\bugzbgone.Resources.resources
+C:\Users\Jeroen\Desktop\BUGZBGONE\bugzbgone\bugzbgone\obj\Debug\bugzbgone.vbproj.GenerateResource.Cache
+C:\Users\Jeroen\Desktop\BUGZBGONE\bugzbgone\bugzbgone\obj\Debug\bugzbgone.dll
+C:\Users\Jeroen\Desktop\BUGZBGONE\bugzbgone\bugzbgone\obj\Debug\bugzbgone.xml
+C:\Users\Jeroen\Desktop\BUGZBGONE\bugzbgone\bugzbgone\obj\Debug\bugzbgone.pdb
